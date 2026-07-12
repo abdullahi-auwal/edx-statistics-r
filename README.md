@@ -7,9 +7,9 @@ This repository documents my progress through the **Statistics and R** course on
 - Build a portfolio of R analyses
 
 ## Repository structure
-data/	# Course datasets (not included in this repository)
-scripts/ # R scripts
-figures/ # Generated plots
+- data/	# Course datasets (not included in this repository)
+- scripts/ # R scripts
+- figures/ # Generated plots
 
 ## Data
 The datasets used in this course belong to their respective owners and are **not included** in this repo
@@ -22,4 +22,5 @@ if you are enrolled in the course, download the datasets from genomicsclass/dagd
 
 ## Author
 Abdullahi Auwalu
+
 Medical Student | Software Engineer | Neuro :)`
