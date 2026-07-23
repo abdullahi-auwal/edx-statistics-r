@@ -17,8 +17,8 @@ The datasets used in this course belong to their respective owners and are **not
 if you are enrolled in the course, download the datasets from genomicsclass/dagdata Github and place them in the 'data/' folder.
 
 ## Topics Covered
-- Introductions to R
-- (More modules will be added as I progress.)
+- Introductions to R using Swirl
+- Introduction to dplyr package
 
 ## Author
 Abdullahi Auwalu
