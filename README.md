@@ -19,6 +19,12 @@ if you are enrolled in the course, download the datasets from genomicsclass/dagd
 ## Topics Covered
 - Introductions to R using Swirl
 - Introduction to dplyr package
+- data exploration analyses
+	- histogram
+	- normal approximation
+	- qqplot
+	- boxplot
+(More will be added as I proceed)
 
 ## Author
 Abdullahi Auwalu
